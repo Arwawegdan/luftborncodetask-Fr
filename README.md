@@ -1,8 +1,25 @@
 # React + Vite
+Hi! I'm a full-stack developer passionate about building scalable, maintainable, and user-friendly applications. This repository showcases a robust todo list app demonstrating my expertise in both back-end and front-end development.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
 
-Currently, two official plugins are available:
+ReactJS Front-end:
+Utilizes three well-structured ReactJS pages for a clear and organized user interface.
+Leverages Tailwind CSS for rapid, responsive styling.
+Focuses on a user-centric design for an intuitive experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+todo-list-app
+<pre> 
+├── src/
+│   ├── API/  # ASP.NET back-end 
+│   │   └──  ToDo List Controllers, repositories, Entities.
+│   └── ClientApp/  # ReactJS front-end 
+│       ├── components/  # Reusable React components
+│       ├── pages/  # React application pages
+│       ├── styles/  # Tailwind CSS configuration and custom styles
+│       └── App.js  # Main React application entry point
+├
+└──  README.md  
+
+</pre>
+
